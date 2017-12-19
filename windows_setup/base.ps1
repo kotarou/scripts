@@ -68,6 +68,21 @@ if (Test-PendingReboot) { Invoke-Reboot }
 choco install firefox
 choco install 7zip
 choco install everything
+choco install f.lux
+choco install greenshot
+choco install puush 
+choco install openvpn
+choco install winscp
+choco install filebot
+choco install calibre
+choco install glasswire
+choco install irfanview
+choco install putty
+choco install qbittorrent
+choco install teracopy
+choco install winscp
+choco install paint.net
+choco install curl
 
 # Windows / system tweaks
 
@@ -81,10 +96,12 @@ choco install notepadplusplus.install
 # Development
 
 choco install git 
+choco install poshgit
 
 # Languages
 
 choco install nodejs 
+choco install python3
 
 # Communications
 
@@ -103,16 +120,17 @@ choco install foobar2000
 
 # Gaming
 
-choco install steam -y
-choco install cheatengine -y
+choco install steam
+choco install goggalaxy
+choco install cheatengine
 
 #Security and tweaking
 
-choco install malwarebytes -y
-choco install ccleaner -y
-choco install ccenhancer -y
-choco install advancedsystemtweaker -y
-choco install windows-tweaker -y
+choco install malwarebytes
+choco install ccleaner
+choco install ccenhancer
+choco install advancedsystemtweaker
+choco install windows-tweaker
 
 # Finish and cleanup
 
